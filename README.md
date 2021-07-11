@@ -67,11 +67,12 @@ Session Description Protocol (SDP): Information about a peer that the other peer
 
 1. Peer joins room.
 2. Sends message to all other peers indicating its entry.
-3. All other peers get notified of new peer through this message 4. each existing peer initiates peer connection with new peer (offer).
+3. All other peers get notified of new peer through this message 
+4. Each existing peer initiates peer connection with new peer (offer).
 5. New peer receives each offer sdp.
-7. New peer sends response (answer sdp) for each offer sdp.
-8. Other peers receive respective answer sdps .
-9. New peer connected with each existing peer (mesh).
+6. New peer sends response (answer sdp) for each offer sdp.
+7. Other peers receive respective answer sdps .
+8. New peer connected with each existing peer (mesh).
 
 ## APP
 ![image](https://user-images.githubusercontent.com/61489137/125207593-cefdf680-e2aa-11eb-8755-3759329c74f4.png)
