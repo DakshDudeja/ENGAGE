@@ -28,7 +28,7 @@ Scrum - A sprint of 4 weeks
 
 Week 1\
 -Documented the structure of an Video Calling Application.\
--Explored different open source libraries , SDK such as WebRTC,jetsy,Agora and twilio used for Video Calling services.\
+-Explored different open source libraries , SDK such as WebRTC , Jetsy , Agora and Twilio used for Video Calling services.\
 -Traversed over different documentations of API,SDK and Libraries.\
 -Chose WebRTC and Read about it's connection requests.
 
