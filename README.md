@@ -18,7 +18,11 @@ After a venv directory is created, run the command for windows: venv\Scripts\act
 
 Install the dependencies by running the command: pip install -r requirements.txt
 
+To start the development server, run the command: python manage.py runserver
+
 Copy and paste this link on your browser https://127.0.0.1:8000/
+
+Once the page is loaded, type a username and click join room from each device. Be sure to use different usernames for now.
 ```
 
 
