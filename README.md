@@ -36,7 +36,7 @@ Week 2\
 -Dived into MS teams documentation and learnt about structure and design of different features.\
 -Learned React from it's documentation ,Youtube Videos and designed an basic app for testing.\
 -Tried to Build UI for Teams Clone app.\
--Added an Extra Feature of News(Which gets updated after every hour) and deployed on heroku and added in My App.
+-Added an ``Extra Feature`` of News(Which gets updated after every hour) and deployed on heroku and added in My App.
 
 Week 3\
 -Started building the Video Functionality of the app\
@@ -54,7 +54,7 @@ Week 4\
 
 ## Methodoly used while implementing Feature (WebRTC) :
 
-Session Description Protocol (SDP): Information about a peer that the other peer needs in order to make p2p connection.\
+Session Description Protocol (SDP): Information about a peer that the other peer needs in order to make p2p connection.
 
 ->Signalling Using( Django server) required to exchange SDPs.\
 ->Both peers connect to signalling servers using WebSocket.\
