@@ -1,7 +1,7 @@
 # ENGAGE
 
 ## TO RUN DJANGO APP
-'''bash
+```bash
 Installation: Go to your desired folder.
 
 Run the command: git clone https://github.com/Tauhid-UAP/django-channels-webrtc.git
@@ -15,7 +15,7 @@ After a venv directory is created, run the command for windows: venv\Scripts\act
 Install the dependencies by running the command: pip install -r requirements.txt
 
 Copy and paste this link on your browser https://127.0.0.1:8000/
-'''
+```
 
 
 ## AGILE METHODOLOGY :
