@@ -28,15 +28,15 @@ Scrum - A sprint of 4 weeks
 
 Week 1\
 -Documented the structure of an Video Calling Application.\
--Explored different open source libraries , SDK such as WebRTC , Jetsy , Agora and Twilio used for Video Calling services.\
--Traversed over different documentations of API,SDK and Libraries.\
+-Explored different open source libraries, SDK such as WebRTC, Jetsy, Agora and Twilio used for Video Calling services.\
+-Traversed over different documentations of API, SDK and Libraries.\
 -Chose WebRTC and Read about it's connection requests.
 
 Week 2\
 -Dived into MS teams documentation and learnt about structure and design of different features.\
 -Learned React from it's documentation ,Youtube Videos and designed an basic app for testing.\
 -Tried to Build UI for Teams Clone app.\
--Added an ``Extra Feature`` of News(Which gets updated after every hour) and deployed on heroku and added in My App.
+-Added an ``Extra Feature`` of News (which gets updated after every hour) and deployed on Heroku and added in My App.
 
 Week 3\
 -Started building the Video Functionality of the app\
