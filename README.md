@@ -67,7 +67,7 @@ Session Description Protocol (SDP): Information about a peer that the other peer
 
 1. Peer joins room.
 2. Sends message to all other peers indicating its entry.
-3. All other peers get notified of new peer through this message 
+3. All other peers get notified of new peer through message sent.
 4. Each existing peer initiates peer connection with new peer (offer).
 5. New peer receives each offer sdp.
 6. New peer sends response (answer sdp) for each offer sdp.
