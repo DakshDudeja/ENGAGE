@@ -1,6 +1,6 @@
 # ENGAGE
 
-## TO RUN DJANGO APP
+## TO RUN APPLICATION (DJANGO)
 ```bash
 Installation: Go to your desired folder.
 
@@ -22,14 +22,11 @@ Copy and paste this link on your browser https://127.0.0.1:8000/
 
 Scrum - A sprint of 4 weeks
 
--Made an concrete Plan of 4 weeks.
-- 
-
 Week 1
--Documented the structure of an Video Calling Application
--Explored different open source libraries , SDK such as WebRTC,jetsy,Agora and twilio used for Video Calling services.
--Traversed over different documentations of API,SDK and Libraries.
--Chose WebRTC and Read about it's connection requests.
+-Documented the structure of an Video Calling Application\
+-Explored different open source libraries , SDK such as WebRTC,jetsy,Agora and twilio used for Video Calling services.\
+-Traversed over different documentations of API,SDK and Libraries.\
+-Chose WebRTC and Read about it's connection requests.\
 
 Week 2
 -Dived into MS teams documentation and learnt about structure and design of different features.
