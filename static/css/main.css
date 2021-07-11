@@ -1,0 +1,36 @@
+.video-grid-container {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    background-color: black;
+}
+
+/* .main-grid-container {
+    display: grid;
+    grid-template-columns: 60% 20%;
+} */
+
+/* video{
+    border-radius: 25%;
+    background-color: black;
+} */
+
+.opclass{
+    height: 400px;
+    width: 400px;
+    border-radius: 0%;
+    background-color: black;
+    margin: 20px;
+}
+
+#chat{
+    margin-top: 25px;
+}
+
+#video-container{
+    display: flex;
+    justify-content: space-around;
+
+}
+.opbuttons{
+    margin-left: 550px;
+}
