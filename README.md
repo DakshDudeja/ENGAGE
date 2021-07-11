@@ -34,7 +34,7 @@ Week 1\
 
 Week 2\
 -Dived into MS teams documentation and learnt about structure and design of different features.\
--Learned React from it's documentation ,Youtube Videos and designed an basic app for testing.\
+-Learned React from it's documentation, Youtube Videos and designed an basic app for testing.\
 -Tried to Build UI for Teams Clone app.\
 -Added an ``Extra Feature`` of News (which gets updated after every hour) and deployed on Heroku and added in My App.
 
