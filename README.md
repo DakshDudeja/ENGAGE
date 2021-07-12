@@ -66,6 +66,41 @@ Week 4\
 -Tried Deploying on Heroku but due to lack of implementation of STUN/TURN server it was not able to deploy.\
 -Explored Microsoft Azure Communication , learnt about swift deployment and it's features.
 
+
+## APPLICATION
+#Interface (video+chat)
+
+![image](https://user-images.githubusercontent.com/61489137/125316563-dcbc8600-e355-11eb-995c-807af92deee5.png)
+
+# 2 Participants in a Call
+
+USER 1
+
+![image](https://user-images.githubusercontent.com/61489137/125318089-29549100-e357-11eb-9fc6-f9bc9b8c509c.png)
+
+USER 2
+
+![image](https://user-images.githubusercontent.com/61489137/125318357-6456c480-e357-11eb-9ec2-cca4751ed3cf.png)
+
+
+# 3 participants in a Meet 
+
+Daksh
+
+![image](https://user-images.githubusercontent.com/61489137/125317738-dd095100-e356-11eb-90aa-86e6c77f0841.png)
+
+
+Yash
+
+![image](https://user-images.githubusercontent.com/61489137/125317219-73894280-e356-11eb-8a20-d665bbd04860.png)
+
+
+#NEWS APP
+![image](https://user-images.githubusercontent.com/61489137/125207593-cefdf680-e2aa-11eb-8755-3759329c74f4.png)
+
+![image](https://user-images.githubusercontent.com/61489137/125318490-82bcc000-e357-11eb-8c41-0b0ad998c54a.png)
+
+
 ## Methodoly used while implementing Feature (WebRTC) :
 
 Session Description Protocol (SDP): Information about a peer that the other peer needs in order to make p2p connection.
@@ -82,21 +117,4 @@ Session Description Protocol (SDP): Information about a peer that the other peer
 6. New peer sends response (answer sdp) for each offer sdp.
 7. Other peers receive respective answer sdps .
 8. New peer connected with each existing peer (mesh).
-
-## APPLICATION
-#Interface (video+chat)
-
-![image](https://user-images.githubusercontent.com/61489137/125316563-dcbc8600-e355-11eb-995c-807af92deee5.png)
-
-# 3 participants in a Meet 
-
-Daksh
- 
-![image](https://user-images.githubusercontent.com/61489137/125207593-cefdf680-e2aa-11eb-8755-3759329c74f4.png)
-
-Yash
-
-![image](https://user-images.githubusercontent.com/61489137/125317219-73894280-e356-11eb-8a20-d665bbd04860.png)
-
-
 
