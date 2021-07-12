@@ -95,7 +95,7 @@ Yash
 ![image](https://user-images.githubusercontent.com/61489137/125317219-73894280-e356-11eb-8a20-d665bbd04860.png)
 
 
-#NEWS APP
+# NEWS FEATURE
 ![image](https://user-images.githubusercontent.com/61489137/125207593-cefdf680-e2aa-11eb-8755-3759329c74f4.png)
 
 ![image](https://user-images.githubusercontent.com/61489137/125318490-82bcc000-e357-11eb-8c41-0b0ad998c54a.png)
