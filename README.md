@@ -28,7 +28,17 @@ Once the page is loaded, type a username and click join room from each device. B
 
 ## AGILE METHODOLOGY :
 
-Scrum - A sprint of 4 weeks
+Daily scrum - 15 mins
+->What did you do yesterday?
+->What are you going to do today
+->any blockers?
+
+Retrospective-
+->What did we do well
+->What has to improve
+->What need to stop
+
+Sprint (4 weeks)
 
 Week 1\
 -Documented the structure of an Video Calling Application.\
