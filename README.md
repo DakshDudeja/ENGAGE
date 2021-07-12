@@ -28,14 +28,14 @@ Once the page is loaded, type a username and click join room from each device. B
 
 ## AGILE METHODOLOGY :
 
-Daily scrum - 15 mins
-->What did you do yesterday?
-->What are you going to do today
+Daily scrum - 15 mins\
+->What did you do yesterday?\
+->What are you going to do today?\
 ->any blockers?
 
-Retrospective-
-->What did we do well
-->What has to improve
+Retrospective-\
+->What did we do well\
+->What has to improve\
 ->What need to stop
 
 Sprint (4 weeks)
