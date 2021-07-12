@@ -70,10 +70,9 @@ Week 4\
 
 Session Description Protocol (SDP): Information about a peer that the other peer needs in order to make p2p connection.
 
-->Signalling Using( Django server) required to exchange SDPs.\
-->Both peers connect to signalling servers using WebSocket.\
-->After SDPs are exchanged from both sides, p2p connection can be established.\
-->Signalling (Django) server not required afterwards
+![image](https://user-images.githubusercontent.com/61489137/125315246-8bf85d80-e354-11eb-8692-54b29bcd8407.png)
+![image](https://user-images.githubusercontent.com/61489137/125315316-9f0b2d80-e354-11eb-8016-49c50e178df9.png)
+
 
 1. Peer joins room.
 2. Sends message to all other peers indicating its entry.
@@ -84,8 +83,20 @@ Session Description Protocol (SDP): Information about a peer that the other peer
 7. Other peers receive respective answer sdps .
 8. New peer connected with each existing peer (mesh).
 
-## APP
+## APPLICATION
+#Interface (video+chat)
+
+![image](https://user-images.githubusercontent.com/61489137/125316563-dcbc8600-e355-11eb-995c-807af92deee5.png)
+
+# 3 participants in a Meet 
+
+Daksh
+ 
 ![image](https://user-images.githubusercontent.com/61489137/125207593-cefdf680-e2aa-11eb-8755-3759329c74f4.png)
+
+Yash
+
+![image](https://user-images.githubusercontent.com/61489137/125317219-73894280-e356-11eb-8a20-d665bbd04860.png)
 
 
 
